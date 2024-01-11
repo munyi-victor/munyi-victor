@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Nairobi, Kenya</h3>
 
 <p align="left"> <a href="https://twitter.com/munyi_victor" target="blank"><img src="https://img.shields.io/twitter/follow/munyi_victor?logo=twitter&style=for-the-badge" alt="munyi_victor" /></a> </p>
 
