@@ -1,4 +1,4 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBOwPYviHlPH4ZT2Tpji0A83oX3Zk8ntoWrD0nmkHuoQ&s" alt=""/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBOwPYviHlPH4ZT2Tpji0A83oX3Zk8ntoWrD0nmkHuoQ&s" alt="" width="500px"/>
 
 <h3 align="center">A passionate frontend developer from Nairobi, Kenya</h3>
 
