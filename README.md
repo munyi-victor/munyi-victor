@@ -1,10 +1,8 @@
-<img src="https://th.bing.com/th/id/OIP.I8L-jG4mmdMQKb1zwLTmigHaEI?rs=1&pid=ImgDetMain" alt="" align="center" height="50%" width="100%"/>
-
 <h3 align="center">A passionate frontend developer from Nairobi, Kenya</h3>
 
 <p align="left"> <a href="https://twitter.com/munyi_victor" target="blank"><img src="https://img.shields.io/twitter/follow/munyi_victor?logo=twitter&style=for-the-badge" alt="munyi_victor" /></a> </p>
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBOwPYviHlPH4ZT2Tpji0A83oX3Zk8ntoWrD0nmkHuoQ&s" alt="" align="center" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBOwPYviHlPH4ZT2Tpji0A83oX3Zk8ntoWrD0nmkHuoQ&s" alt="" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
