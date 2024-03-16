@@ -1,3 +1,5 @@
+<img src="https://th.bing.com/th/id/OIP.I8L-jG4mmdMQKb1zwLTmigHaEI?rs=1&pid=ImgDetMain" alt="" align="center" width="100%"/>
+
 <h3 align="center">A passionate frontend developer from Nairobi, Kenya</h3>
 
 <p align="left"> <a href="https://twitter.com/munyi_victor" target="blank"><img src="https://img.shields.io/twitter/follow/munyi_victor?logo=twitter&style=for-the-badge" alt="munyi_victor" /></a> </p>
